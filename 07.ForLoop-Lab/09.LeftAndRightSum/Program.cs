@@ -11,7 +11,7 @@ namespace _09.LeftAndRightSum
             int leftSum = 0;
             int rigthSum = 0;
 
-            for (int i = 0; i < n * 2; i++)
+            for (int i = 0; i < n; i++)
             {
                 int num = int.Parse(Console.ReadLine());
 
